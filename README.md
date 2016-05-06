@@ -2,7 +2,7 @@
 
 Game for cartographers.
 
-Map for heat wave risk for fragile person in EU28 country assesesed by using capital city of the country.
+Map for heat wave risk for fragile person in EU28 country assessed by using capital city of the country.
 
 Authors
 
